@@ -14,6 +14,9 @@ Recently, I have been intrigued by 3D immersive web apps. To satisfy curiosity, 
 ### 💬 Ask me about
 I am always open for any discussion related to improving user experience of a product or service. 
 
+### 🔗 Links:
+#### CV:
+I keep my comprehensive CV updated at [cv.yashbhalodi.me](https://cv.yashbhalodi.me)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashbhalodi) 
