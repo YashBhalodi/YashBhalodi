@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 🙋🏻‍♂️
 
-I am **Yash Bhalodi**, a software engineer mainly focused on building web app and mobile app using React, React Native. I am passionate about building products and services with greate UX Design. I often collaborate with product designers to perform UX audits to improve the user experience of the product we are building.
+I am **Yash Bhalodi**, a software engineer mainly focused on building web app and mobile app using React, React Native. I am passionate about building products and services with great UX Design. I often collaborate with product designers to perform UX audits to improve the user experience of the product we are building.
 
 ### ⚙ I’m currently working on 
 React package to allow developers to quickly build kanban board. It's UI will be customizable from end-to-end. It will have drag-n-drop functionality. 
